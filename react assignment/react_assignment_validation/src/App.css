@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.err-input{
+  border-color: red;
+}
+
+.error-show{
+  color: red;
+}
