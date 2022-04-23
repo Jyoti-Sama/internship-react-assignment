@@ -1,9 +1,9 @@
 # internship-react-assignment
 react js assignments for internship
 
-react_assignments --> assignment_01 : React & components ;
-                      assignment_02 : working with events ;
-                      assignment_03 : working with lists ;
+react_assignments --> assignment_01 : React & components ,
+                      assignment_02 : working with events ,
+                      assignment_03 : working with lists ,
                       assignment_04 : conditional content ;      
 
 
